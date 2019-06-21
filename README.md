@@ -1,2 +1,2 @@
 # GetClosedClass
-Automated Selenium test to login to CunyFirst and enroll or swap classes whenever the classes have an open seat
+Automated Selenium test that logs into CunyFirst and enrolls or swaps classes whenever the specified classes have an open seat.
