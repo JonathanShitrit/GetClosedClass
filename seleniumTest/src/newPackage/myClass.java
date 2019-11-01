@@ -2,9 +2,6 @@ package newPackage;
 
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import newPackage.enrollSteps.Enroll;
-import newPackage.enrollSteps.Login;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
