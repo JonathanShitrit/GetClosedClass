@@ -1,10 +1,8 @@
-package newPackage.enrollSteps;
+package newPackage;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
-import newPackage.SeleniumFunctions;
 
 public class Login extends SeleniumFunctions {
 
