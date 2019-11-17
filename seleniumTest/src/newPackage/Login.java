@@ -14,12 +14,12 @@ public class Login extends SeleniumFunctions {
 
 		// Insert Username
 		By usernameLocator = By.id("CUNYfirstUsernameH");
-		String username = "Jonathan.shitrit66";
+		String username = "YOUR CUNY FIRST USERNAME";
 		waitAndSendKey(usernameLocator, username);  	
 
 		// Insert Pass
 		By passwordLocator = By.id("CUNYfirstPassword");
-		String password = "Kobejack55;";
+		String password = "YOUR PASSWORD";
 		waitAndSendKey(passwordLocator, password);
 
 		// Click Submit
